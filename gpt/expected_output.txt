@@ -1,0 +1,25 @@
+Expected Output for test1.txt:
+You rode 50 miles this week.
+Good job! You met your goal!
+Keep riding!
+
+Expected Output for test2.txt:
+You rode 105 miles this week.
+Great job! You exceeded your goal by 55 miles!
+Keep riding!
+
+Expected Output for test3.txt:
+You rode 35 miles this week.
+Uh oh! You missed your goal by 15 miles!
+Keep riding!
+
+Expected Output for test4.txt:
+Miles must be 0 or greater!
+You rode 60 miles this week.
+Great job! You exceeded your goal by 10 miles!
+Keep riding!
+
+Expected Output for test5.txt:
+No miles were tracked this week.
+Keep riding!
+
