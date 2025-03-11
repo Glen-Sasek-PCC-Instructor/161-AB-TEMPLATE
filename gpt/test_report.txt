@@ -1,0 +1,36 @@
+Test Report - Tue Mar 11 03:32:48 UTC 2025
+=====================================
+Test results for ./programs/fin.cpp - Test 1:
+Welcome to my Miles Tracker program.
+How many miles do you want to ride this week? How many miles did you ride on Sunday? How many miles did you ride on Monday? How many miles did you ride on Tuesday? How many miles did you ride on Wednesday? How many miles did you ride on Thursday? How many miles did you ride on Friday? How many miles did you ride on Saturday? 
+You rode 70 miles this week.
+Great job! You exceeded your goal by 20 miles!
+Keep riding!
+-------------------------------------
+Test results for ./programs/fin.cpp - Test 2:
+Welcome to my Miles Tracker program.
+How many miles do you want to ride this week? How many miles did you ride on Sunday? How many miles did you ride on Monday? How many miles did you ride on Tuesday? How many miles did you ride on Wednesday? How many miles did you ride on Thursday? How many miles did you ride on Friday? How many miles did you ride on Saturday? 
+You rode 105 miles this week.
+Great job! You exceeded your goal by 55 miles!
+Keep riding!
+-------------------------------------
+Test results for ./programs/fin.cpp - Test 3:
+Welcome to my Miles Tracker program.
+How many miles do you want to ride this week? How many miles did you ride on Sunday? How many miles did you ride on Monday? How many miles did you ride on Tuesday? How many miles did you ride on Wednesday? How many miles did you ride on Thursday? How many miles did you ride on Friday? How many miles did you ride on Saturday? 
+You rode 35 miles this week.
+Uh oh! You missed your goal by 15 miles!
+Keep riding!
+-------------------------------------
+Test results for ./programs/fin.cpp - Test 4:
+Welcome to my Miles Tracker program.
+How many miles do you want to ride this week? How many miles did you ride on Sunday? Miles must be 0 or greater!
+How many miles did you ride on Sunday? How many miles did you ride on Monday? How many miles did you ride on Tuesday? How many miles did you ride on Wednesday? How many miles did you ride on Thursday? How many miles did you ride on Friday? How many miles did you ride on Saturday? 
+You rode 70 miles this week.
+Great job! You exceeded your goal by 20 miles!
+Keep riding!
+-------------------------------------
+Test results for ./programs/fin.cpp - Test 5:
+Welcome to my Miles Tracker program.
+How many miles do you want to ride this week? No miles were tracked this week.
+Keep riding!
+-------------------------------------

@@ -29,7 +29,9 @@ for cpp_file in $PROGRAMS_DIR/*.cpp; do
                 echo "Test results for $cpp_file - Test $i:" >> $REPORT_FILE
                 cat "$TEST_OUTPUT" >> $REPORT_FILE
                 echo "-------------------------------------" >> $REPORT_FILE
+                rm $TEST_OUTPUT
             done
+            rm "$exe_file"
         else
             echo "Compilation failed for $cpp_file!" >> $REPORT_FILE
         fi
